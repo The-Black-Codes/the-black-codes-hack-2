@@ -16,7 +16,8 @@ cd the-black-codes-hack-2
 - [Heroes and Villains](heroes-and-villains.md)
 - [Church Directory](church-directory.md)
 - [Birthday List](birthday-list.md)
+- [Roman Numerals](roman-numerals.md)
 
 
 The challenges above were taken from [Developer Launchpad](https://www.developerlaunchpad.com/)
-and 
+and [Coding Dojo](https://http://www.codingdojo.org/kata/)
