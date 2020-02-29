@@ -8,4 +8,14 @@ Welcome to the second Black.Codes Hack event.Let's git our hack on.
 ## Get Started 
 
 ```
+git@github.com:The-Black-Codes/the-black-codes-hack-2.git
+cd the-black-codes-hack-2
+```
 
+## Select a Challenge
+- [Heroes and Villains](heroes-and-villains.md)
+- []
+
+
+The challenges above were taken from [Developer Launchpad](https://www.developerlaunchpad.com/)
+and 
