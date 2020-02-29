@@ -15,6 +15,7 @@ cd the-black-codes-hack-2
 ## Select a Challenge
 - [Heroes and Villains](heroes-and-villains.md)
 - [Church Directory](church-directory.md)
+- [Birthday List](birthday-list.md)
 
 
 The challenges above were taken from [Developer Launchpad](https://www.developerlaunchpad.com/)
